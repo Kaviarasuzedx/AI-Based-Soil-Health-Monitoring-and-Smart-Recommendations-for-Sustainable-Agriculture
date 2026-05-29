@@ -34,6 +34,13 @@ Minimal folder layout:
     ├── pdf_templates.py
     └── generated_reports/
 ```
+![Alt text](https://github.com/Kaviarasuzedx/AI-Based-Soil-Health-Monitoring-and-Smart-Recommendations-for-Sustainable-Agriculture/blob/f5060dc9875f5c63674ac815627781af3e9e3955/screenshots/home.png)
+
+![Alt text](https://github.com/Kaviarasuzedx/AI-Based-Soil-Health-Monitoring-and-Smart-Recommendations-for-Sustainable-Agriculture/blob/f5060dc9875f5c63674ac815627781af3e9e3955/screenshots/report.png)
+
+![Alt text](https://github.com/Kaviarasuzedx/AI-Based-Soil-Health-Monitoring-and-Smart-Recommendations-for-Sustainable-Agriculture/blob/f5060dc9875f5c63674ac815627781af3e9e3955/screenshots/chat.png)
+
+
 
 - `frontend/`
   - React + Vite application for the user interface.
@@ -223,7 +230,6 @@ The NDVI server exposes OpenAPI docs at `/docs` once it is running.
 
 GitHub: [https://github.com/Sriramking2]
 
-Email: [srirampurushothaman2004@gmail.com]
 ---
 
 Made for sustainable agriculture workflows with satellite NDVI, soil health intelligence, AI chat, and PDF reporting.
