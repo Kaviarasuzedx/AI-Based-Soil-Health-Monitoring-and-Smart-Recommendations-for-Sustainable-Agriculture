@@ -219,5 +219,11 @@ The NDVI server exposes OpenAPI docs at `/docs` once it is running.
 - Add more detailed integration documentation for the frontend and API services
 
 ---
+"soil advisor develop by sriram p"
+
+GitHub: [https://github.com/Sriramking2]
+
+Email: [srirampurushothaman2004@gmail.com]
+---
 
 Made for sustainable agriculture workflows with satellite NDVI, soil health intelligence, AI chat, and PDF reporting.
