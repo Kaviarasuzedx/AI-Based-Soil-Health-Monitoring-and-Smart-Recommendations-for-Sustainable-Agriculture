@@ -1,0 +1,16 @@
+html {
+  scrollbar-gutter: stable;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F3F1EA;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #C8DDC9;
+  border-radius: 10px;
+}

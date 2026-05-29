@@ -1,0 +1,55 @@
+/* Add to your main CSS file */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scrollbar-gutter: stable;
+}
+
+body {
+  overflow-y: scroll;
+}
+
+/* Fixed Layout Structure */
+.app-wrapper {
+  --app-nav-height: 66px;
+  display: block;
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+}
+
+.main-content {
+  display: block;
+  width: 100%;
+  min-height: calc(100vh - var(--app-nav-height));
+  position: relative;
+  z-index: 1;
+}
+
+/* Remove any Tailwind classes that might affect layout */
+.min-h-screen {
+  min-height: 100vh;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+
+/* Ensure header never changes */
+header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
